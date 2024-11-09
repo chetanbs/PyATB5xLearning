@@ -1,3 +1,9 @@
+#Variables
+#A Variable is acontainer (storage area) used to hold data
+#Each variable should be given a unique name (identifier)
+
+#variable_name = variable_value
+
 #Types of variables
 #Numbers
 #String
