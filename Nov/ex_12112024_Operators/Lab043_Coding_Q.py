@@ -35,4 +35,7 @@ area = math.pi * math.pow(radius, 2)
 print("Area of the Circle is => ", area)
 
 
+#print(3.14 * (float(input("Enter the radius of the circle\n"))**2))
+
+
 
