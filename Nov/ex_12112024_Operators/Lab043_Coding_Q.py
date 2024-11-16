@@ -16,10 +16,10 @@
 #Step 3
 radius = float(input("Enter the radius of the circle\n"))
 print(radius)
-area = 3.14 * (radius ** 2)
+area = 3.140987654321 * (radius ** 2)
 print("Area of the Circle is = ", area)
-print(f"Area of the Circle is (Area) = {area}")
-# f -> Formatting
+print(f"Area of the Circle is (Area) = {area:.2f}")
+# f -> Formatting the output statement
 
 
 
