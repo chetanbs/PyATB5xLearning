@@ -6,11 +6,14 @@
 # Q -> 7
 # R -> 1
 
-num1 = int(input("Enter the value1: "))
-num2 = int(input("Enter the value2: "))
+num1 = int(input("Enter the value1 (dividend): "))
+num2 = int(input("Enter the value2 (divisor): "))
 
-quotient = num1 // num2
-remainder = num1 % num2
+#divmod() function also can be used 
 
-print("Quotient Value = ", quotient)
-print("Remainder Value =", remainder)
+quotient = num1 // num2  # using float division to get quotient
+remainder = num1 % num2  # using module to get the remainder
+
+print("Quotient Value (Q) = ", quotient)
+print("Remainder Value (R) =", remainder)
+
