@@ -26,6 +26,7 @@
 # Attributes - name, id, phoneNo, gender, color_eyes, city, location, address
 # Behavior - walk, talk, write, sing, dance, watch, listen, sleep, cry, smile
 
+
 class Person:
     # Attributes - What you have?
     id = None
