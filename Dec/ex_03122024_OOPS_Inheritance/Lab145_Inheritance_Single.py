@@ -20,4 +20,4 @@ child_object.BHK2()
 
 father_object_ref = Parent()
 father_object_ref.BHK2()
-# father_object_ref.BHK3()
+# father_object_ref.BHK3() # Not able to access

@@ -1,4 +1,4 @@
-# Hierarchical Inheritance
+# Hierarchical Inheritance Concept
 
 class Father:
 

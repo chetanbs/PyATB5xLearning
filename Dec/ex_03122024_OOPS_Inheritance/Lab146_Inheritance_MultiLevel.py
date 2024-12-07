@@ -1,4 +1,4 @@
-# Multi-Level Inheritance
+# Multi-Level Inheritance Concept
 # GrandParent -> Father -> Son
 
 class GrandFather:

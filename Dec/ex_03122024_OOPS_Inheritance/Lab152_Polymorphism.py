@@ -6,7 +6,7 @@
 # 1. Method Overriding - Can override the methods of parent
 # 2. Method Overloading - By default doesnot support direct method overloading concept
 
-# Method Overloading example
+# Method Overloading
 
 class Dog:
 

@@ -30,3 +30,5 @@ print(d.methodA())
 print(d.methodB())
 print(d.methodC())
 print(d.methodD())
+
+# D can able to access all classes

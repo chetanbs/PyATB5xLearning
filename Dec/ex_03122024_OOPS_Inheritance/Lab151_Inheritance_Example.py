@@ -35,4 +35,3 @@ class TestCase2(BaseTest):
 
 p = TestCase1()
 p.test_positive()
-# p.test_negative
