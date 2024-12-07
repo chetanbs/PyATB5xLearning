@@ -28,5 +28,5 @@ print(s.btc)
 
 f = Father()
 # print(f.btc)   # Son property
-print(f.Gold)    # Able to access bcz its GrandParent property
+print(f.Gold)    # Able to access bcz its GrandParent property inherites
 

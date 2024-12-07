@@ -13,3 +13,5 @@ s.home()  # 2BHK
 
 f = Father()
 f.home()  # 1BHK
+
+# overide example

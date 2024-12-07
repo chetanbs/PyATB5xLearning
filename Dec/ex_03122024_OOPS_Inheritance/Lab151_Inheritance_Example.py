@@ -35,3 +35,5 @@ class TestCase2(BaseTest):
 
 p = TestCase1()
 p.test_positive()
+
+# Inheritance simple example

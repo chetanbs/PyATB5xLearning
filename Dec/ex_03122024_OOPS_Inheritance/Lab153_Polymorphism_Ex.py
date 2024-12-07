@@ -19,3 +19,5 @@ print(math.add(1,2))
 #op2 = math.add(1,2,3)
 #op3 = math.add(2,4,6,8)
 
+# need to declare the values
+

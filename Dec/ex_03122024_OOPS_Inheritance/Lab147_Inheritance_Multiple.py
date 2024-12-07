@@ -27,3 +27,5 @@ s = Son()
 print(s.father_money())
 print(s.mother_money())
 print(s.home())
+
+# Multiple

@@ -19,3 +19,5 @@ class Dog:
 
 d = Dog()
 d.bark("chow")
+
+# Polymorphism
