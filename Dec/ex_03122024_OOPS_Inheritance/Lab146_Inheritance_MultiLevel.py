@@ -24,6 +24,7 @@ s = Son()
 print(s.Gold)
 print(s.Diamond)
 print(s.btc)
+#print(s.BHK3())
 
 f = Father()
 # print(f.btc)   # Son property

@@ -1,4 +1,4 @@
-# Hybrid Inheritance
+# Hybrid Inheritance concept
 # Multiple types of inheritance
 # Such as Single, Multiple, Multi-level
 

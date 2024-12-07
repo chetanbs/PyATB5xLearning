@@ -29,7 +29,7 @@ child.BHK2()
 c = Child2()
 c.BHK1()
 c.BHK3()
-# c.BHK2()  # This belongs to Child1
+# c.BHK2()  # This belongs to Child1 class
 
 cc = Child3()
 cc.BHK1()  # can access its father property

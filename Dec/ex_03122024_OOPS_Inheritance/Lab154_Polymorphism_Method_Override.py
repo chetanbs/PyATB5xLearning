@@ -9,7 +9,7 @@ class Son(Father):
         print("2BHK")
 
 s = Son()
-s.home()
+s.home()  # 2BHK
 
 f = Father()
-f.home()
+f.home()  # 1BHK

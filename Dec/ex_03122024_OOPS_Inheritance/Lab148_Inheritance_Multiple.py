@@ -17,3 +17,4 @@ class C(B, A):
 
 c = C()
 print(c.method())  # Method B prints
+#print(c.method())
